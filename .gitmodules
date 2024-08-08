@@ -1,0 +1,3 @@
+[submodule "algoritmo-genetico-python/transporte-produtos"]
+	path = algoritmo-genetico-python/transporte-produtos
+	url = git@github.com:RafaelSouza-13/Algoritmo-Genetico-Python.git
